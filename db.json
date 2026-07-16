@@ -34,6 +34,13 @@
   ],
   "friends": [],
   "dailyRewards": [],
-  "posts": [],
+  "posts": [
+    {
+      "id": "post_1784230933302",
+      "authorId": "user_1784230836537",
+      "content": "hello\n\nhi",
+      "createdAt": "2026-07-16T19:42:13.302Z"
+    }
+  ],
   "comments": []
 }
