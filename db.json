@@ -29,13 +29,15 @@
       "authorId": "user_1784230836537",
       "content": "hello\n\nhi",
       "createdAt": "2026-07-16T19:42:13.302Z"
-    },
-    {
-      "id": "post_1784231550432",
-      "authorId": "user_1784230836537",
-      "content": "hiiiii",
-      "createdAt": "2026-07-16T19:52:30.432Z"
     }
   ],
-  "comments": []
+  "comments": [
+    {
+      "id": "comment_1784231577006",
+      "postId": "post_1784230933302",
+      "authorId": "user_1784230836537",
+      "content": "hi",
+      "createdAt": "2026-07-16T19:52:57.007Z"
+    }
+  ]
 }
