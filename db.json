@@ -1,0 +1,18 @@
+{
+  "users": {
+    "admin_001": {
+      "id": "admin_001",
+      "username": "creditbank",
+      "password": "h_9334549",
+      "balance": 999999,
+      "totalEarned": 999999,
+      "totalSent": 0,
+      "totalReceived": 0,
+      "isAdmin": true,
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  "transactions": [],
+  "friends": [],
+  "dailyRewards": []
+}
