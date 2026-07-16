@@ -10,9 +10,30 @@
       "totalReceived": 0,
       "isAdmin": true,
       "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    "user_1784230836537": {
+      "id": "user_1784230836537",
+      "username": "ejrecess",
+      "password": "h_82z3hf",
+      "balance": 100,
+      "totalEarned": 100,
+      "totalSent": 0,
+      "totalReceived": 0,
+      "isAdmin": false,
+      "createdAt": "2026-07-16T19:40:36.537Z"
     }
   },
-  "transactions": [],
+  "transactions": [
+    {
+      "toUserId": "user_1784230836537",
+      "amount": 100,
+      "type": "bonus",
+      "description": "Welcome bonus!",
+      "createdAt": "2026-07-16T19:40:36.537Z"
+    }
+  ],
   "friends": [],
-  "dailyRewards": []
+  "dailyRewards": [],
+  "posts": [],
+  "comments": []
 }
